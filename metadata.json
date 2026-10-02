@@ -1,0 +1,6 @@
+{
+  "name": "Abhyas Coaching",
+  "description": "ABHYAS COACHING - Class 10 Science Test Series. Given by Praful Kumar, Director Anuj Sir.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
